@@ -8,7 +8,7 @@ More languages.
 More pages.
 Note: before making any contributions on this list please look at rules.md
 # Website
-https://neverfriendme.github.io/Code-templates-copy-and-paste.github.io/Code%20templates.html
+https://neverfriendme.github.io/Code-templates.github.io/Code%20templates
 # Copyright
 all rights reserved
 
