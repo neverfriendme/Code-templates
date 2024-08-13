@@ -1,7 +1,7 @@
 function start() {
             document.getElementById("text").innerHTML = "That was obvious"
-            var a = prompt("???: ")
-            if (a === "yes") {
+            const a = prompt("???: ")
+            if (a === "Yes") {
                         document.getElementsByname("Python").innerHTML = "-... ..- - / .. ... / - .... .. ... ..--.."
             }
         }
