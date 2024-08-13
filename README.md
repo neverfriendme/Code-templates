@@ -5,8 +5,9 @@ Making Code templates safe.
 # Contribute
 If you would like to make contributions here is a list of which would be very needed:
 templates.
-more languages.
-more pages.
+More languages.
+More pages.
+Note: before making any contributions on this list please look at rules.md
 # Copyright
 all rights reserved
 
