@@ -6,7 +6,7 @@ If you would like to make contributions here is a list of which would be very ne
 templates.
 More languages.
 More pages.
-Note: before making any contributions on this list please look at rules.md
+Note: before making any contributions on this list please look at Rules.md
 # Website
 https://neverfriendme.github.io/Code-templates.github.io/Code%20templates
 # Copyright
