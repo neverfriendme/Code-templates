@@ -9,4 +9,4 @@ All pages backround color should be black and text color white and your github u
 Contributions should have your github username like:
 // by neverfriendme. All contributions should have appropriate content.
 # Folder downloads
-All folder downloads should be up to 5 files or under with the rule of templates of each file
+All folder downloads should be up to 5 files or under with the rule of templates for each file
