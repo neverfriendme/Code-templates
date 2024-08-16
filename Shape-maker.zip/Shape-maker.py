@@ -1,4 +1,4 @@
-rom turtle import *
+from turtle import *
 __name__ == "__main__"
 
 print("Shape maker v4 pre-release")
