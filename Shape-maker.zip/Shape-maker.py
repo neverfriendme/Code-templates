@@ -1,3 +1,4 @@
+# By neverfriendme
 from turtle import *
 __name__ == "__main__"
 Version = "Version 5"
