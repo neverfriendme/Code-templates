@@ -6,7 +6,7 @@ function Calculator(){
         const div1 = Number(prompt("First number: "));
         const div2 = Number(prompt("Second number: "));
         const ans = div1 / div2;
-        alert("The quotent is " + ans);
+        alert("The quotient is " + ans);
     }
     if (choice === "Addition") {
         const add1 = Number(prompt("First number: "));
@@ -24,7 +24,7 @@ function Calculator(){
         const sub1 = Number(prompt("First number: "));
         const sub2 = Number(prompt("Second number: "));
         const ans4 = sub1 - sub2;
-        alert("The product is " + ans4);
+        alert("The diffrence is " + ans4);
     }
 }
 
