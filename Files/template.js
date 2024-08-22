@@ -1,4 +1,5 @@
 // by: neverfriendme
+
 function template() {
     document.getElementById("Any_element").innerHTML = "Anything"
 }

@@ -1,6 +1,7 @@
 // by: neverfriendme;
 // Prompt calculator starting!;
-var choice = prompt("Division, Addition, Multiplication, Subtraction.");
+function Calculator(){
+    var choice = prompt("Division, Addition, Multiplication, Subtraction.");
     if (choice === "Division") {
         const div1 = Number(prompt("First number: "));
         const div2 = Number(prompt("Second number: "));
@@ -25,3 +26,5 @@ var choice = prompt("Division, Addition, Multiplication, Subtraction.");
         const ans4 = sub1 - sub2;
         alert("The product is " + ans4);
     }
+}
+
