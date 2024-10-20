@@ -111,5 +111,6 @@ while running:
         guess = input("----------------------\n\nGuess the word! You have to use words!\n")
         if guess.lower() == generate:
             print(f"Correct! the word was {generate}.")
+            continue
         else:
             print(f"Wrong the word was {generate}")
