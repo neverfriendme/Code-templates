@@ -111,7 +111,8 @@ while running:
         guess = input("----------------------\n\nGuess the word! You have to use words!\n")
         if guess.lower() == generate:
             print(f"Correct! the word was {generate}.")
-            continue
+            running = False
         elif guess.lower() != generate:
             print(f"Wrong! the word was {generate}")
+            generate = random.choice(wordlist)
 
