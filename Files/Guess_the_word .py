@@ -1,3 +1,4 @@
+# by neverfriendme
 import random
 
 wordlist = (
