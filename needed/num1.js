@@ -30,3 +30,7 @@ function Calculator(){
 function template() {
     document.getElementById("JS").innerHTML = "Javascript templates are cool!"
 }
+function time() {
+    const time = new Date;
+    alert(time)
+}
