@@ -9,6 +9,5 @@ More pages.
 Note: before making any contributions on this list please look at Rules.md
 # Website
 https://neverfriendme.github.io/Code-templates/
-# Copyright
-all rights reserved
+
 
