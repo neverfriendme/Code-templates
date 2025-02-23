@@ -1,5 +1,10 @@
 // made from: neverfriendme
-Month = Number(prompt("Month of Birth:\n"))
-Year = Number(prompt("Year of Birth:\n"))
-Now = Number(prompt("Present:\n"))
-document.write("You were born " + Now - Year + " and " + 12 - Month +" ago")
+let Month = Number(prompt("Month of Birth:\n"));
+let Year = Number(prompt("Year of Birth:\n"));
+let Now = Number(prompt("Present:\n"));
+let present = Number(prompt("Year now:"))
+let monthage = 12 - Month
+let yearage = Now - Year
+document.write("You were born " + yearage + "and " + monthage + " ago")
+
+
