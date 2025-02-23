@@ -36,9 +36,11 @@ function time() {
 }
 function Age_Calc() {
     // made from: neverfriendme
-    Months = [0,12,11,10,9,8,7,6,5,4,3,2,1];
-    Month = Number(prompt("Month of Birth:\n"));
-    Year = Number(prompt("Year of Birth:\n"));
-    Now = Number(prompt("Present:\n"));
-    alert("You are " + Now - Year, Months - Month);
+let Month = Number(prompt("Month of Birth:\n"));
+let Year = Number(prompt("Year of Birth:\n"));
+let Now = Number(prompt("Present:\n"));
+let present = Number(prompt("Year now:"));
+let monthage = 12 - Month;
+let yearage = Now - Year;
+document.write("You were born " + yearage + "and " + monthage + " ago");
 }
