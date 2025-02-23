@@ -1,3 +1,4 @@
+// made from: neverfriendme
 Months = [0,12,11,10,9,8,7,6,5,4,3,2,1]
 Month = Number(prompt("Month of Birth:\n"))
 Year = Number(prompt("Year of Birth:\n"))
