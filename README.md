@@ -1,6 +1,5 @@
 # What is Code templates?
-Code templates is a  open source, online repository.
-where you can download safe content. If you think these files are not safe you can check the file "Files".
+Code templates is a  open source, online repository, whee you can add to simple templates or turn them complex.
 # Contribute
 If you would like to make contributions here is a list of which would be very needed:
 templates.
