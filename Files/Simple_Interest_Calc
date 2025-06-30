@@ -12,7 +12,10 @@ try:
     print("Loading calculation...")
     time.sleep(3)
     # Just something cool
-    print(f"{Interest:.2f} dollars")
+    if Interest < 1.00:
+        print(f"{Interest:.2f} cents")
+    elif Interest > 1.00:
+        print(f"{Interest:.2f} dollars")
     # Rounds the numbers. Makes it look polished.
 except ValueError:
     print("You entered a string instead of a number!")
