@@ -1,3 +1,4 @@
+import random
 List1 = "1","2","3","4","5","6","7","8","9","10","11","12","13","14","15"
 List2 = "blooded", "banana", "dolphin", "breath", "stream","facade","Norses","Nurses","engineer","feared","happiness","growth","solar_system","lunatic","cooled","chilled","filled","Batman","Superman","Shovel"
 List3 = "!", "@", ",", ".", "#", "/", "*","-", "—", "~", "|","?", ":", ";","%", "^", "$", "&","`","+","=","_"
